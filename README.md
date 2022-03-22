@@ -7,11 +7,8 @@ Question1: Implement given program using copy constructor by creating a class
 Student with two parameter 
 1. int rollNumber;
 2. String name
-
 Question 2:  Create a Shape class and a sub classes triangle, rhombus
-
 Question 3: Implement given below figure and test the shapeTester class
-
 Question 4: Comparators are used to compare two objects. You'll create a 
 comparator and use it to sort an array. You must create Player class. It has 2 fields: 
 a String name and a score integer. Given an array of Player objects, write a 
@@ -19,7 +16,6 @@ comparator that sorts them in order of decreasing score; if 2 or more players ha
 the same score, sort those players alphabetically by name. 
 write an int compare (Player a, Player b) method implementing the Comparator. 
 compare (T o1, T o2) method.
-
 
 Assignment 3
 
