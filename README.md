@@ -6,9 +6,10 @@ Assignment 2
 Question1: Implement given program using copy constructor by creating a class 
 Student with two parameter 
 1. int rollNumber;
-2. String name
-Question 2:  Create a Shape class and a sub classes triangle, rhombus
-Question 3: Implement given below figure and test the shapeTester class
+2. String name.
+
+Question 2:  Create a Shape class and a sub classes triangle, rhombus?
+Question 3: Implement given below figure and test the shapeTester class?
 Question 4: Comparators are used to compare two objects. You'll create a 
 comparator and use it to sort an array. You must create Player class. It has 2 fields: 
 a String name and a score integer. Given an array of Player objects, write a 
