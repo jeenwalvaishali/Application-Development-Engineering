@@ -17,6 +17,7 @@ the same score, sort those players alphabetically by name.
 write an int compare (Player a, Player b) method implementing the Comparator. 
 compare (T o1, T o2) method.
 
+
 Assignment 3
 
 1. Create a class called SeattlePoliceDepartment
